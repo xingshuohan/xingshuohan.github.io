@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingshuo Han"
+title                    : "Xingshuo Han's Homepage"
 title_separator          : "-"
-name                     : &name "Xingshuo Han (韩星烁)"
-description              : &description "PhD Candidate at Nanyang Technological University"
+name                     : &name "Xingshuo Han"
+description              : &description "personal description"
 url                      : https://xingshuohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xingshuohan/xingshuohan.github.io"
@@ -77,14 +77,13 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  name             : "Xingshuo Han"
+  name             : "Xingshuo Han (韩星烁)"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "PhD Candidate at Nanyang Technological University"
   location         : "Singapore"
-  employer         :
+  employer         : "Cyber Security Lab (CSL)"
   pubmed           : 
   googlescholar    : 
   email            : "xingshuo001@e.ntu.edu.sg"
