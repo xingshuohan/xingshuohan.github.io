@@ -17,17 +17,11 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 <font color=dark size=5> Publications </font>
 
 <style>
-    table {
-        border-collapse: collapse;
-    }
-
     th, td {
         border: none;
-        padding: 8px;
     }
 </style>
 
-<!-- |Conference/Journal|| -->
 |||
 |----|----|
 |<font color='red'>**[S&P 24]** </font>|<font color='blue'> Backdooring Multimodal Learning.</font>  <br>**Xingshuo Han**, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang. |
