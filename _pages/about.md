@@ -37,7 +37,7 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
     }
 </style> -->
 
-|Conference/Journal||
+|Conference/Journal|* Corresponding|
 |----|----|
 |**[S&P '24]** |<font color='blue'> Backdooring Multimodal Learning.</font>  <br>**Xingshuo Han**, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang. |
 |**[MM '22]**| <font color='blue'>Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. </font> <br> **Xingshuo Han**, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang.  |
