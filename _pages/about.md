@@ -16,6 +16,8 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 <font color=dark size=5> What's News </font>
 
++ **[28-09-2023]** One paper is accepted by IEEE TSC!
+  
 + **[04-08-2023]** Two papers are submitted to IEEE S&P 2024, thank my partners.
 
 + **[26-07-2023]** Our [team](https://personal.ntu.edu.sg/tianwei.zhang/research.html) is funded by [AISG Grand Challenge](https://aisingapore.org/technology/grand-challenges/): Towards Building Unified AV Scene Representation for Physical AV Adversrail Attacks and Visual Robustness Enhancement. And I introduce our defense framework against physical adversarial attack for autonomous driving to the **Senior Minister of State for Defence Heng Chee How**. (News coverage: [CNA](https://www.youtube.com/watch?v=6zbpUcAeF8Y&t=16s), [Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20230726-1417558) (联合早报), [MINDEF](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/July/26jul23_speech),etc.) 
@@ -26,7 +28,6 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
     </video>
 </div>
 
-+ **[19-04-2023]** One paper is submitted to TSC.
   
 <font color=dark size=5> Publications </font>
 
@@ -43,6 +44,7 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 |**[MM '22]**| <font color='blue'>Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. </font> <br> **Xingshuo Han**, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang.  |
 |**[TITS '22]**| <font color='blue'>ADS-lead: Lifelong anomaly detection in autonomous driving systems. </font> <br> **Xingshuo Han**, Yuan Zhou, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang. |
 |**[ISPA '21]** | <font color='blue'>A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.<font color='red'> Most Innovative Paper Award. </font> </font> <br> **Xingshuo Han**, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  |
+|**[TSC '23]** | <font color='blue'> An Adaptive Secure and Practival Data Sharing System with Verifiable Outsourced Decryption. </font> <br> Shengmin Xu, __Xingshuo Han *__, Guowen Xu, Jianting Ning, Xinyi Huang, Robert H. Deng.
 |**[TDSC '22]** | <font color='blue'>Hercules: Boosting the Performance of Privacy-preserving Federated Learning. </font> <br>  Guowen Xu, __Xingshuo Han *__, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. |
 |**[ICCV '23]**| <font color='blue'>Computation and Data Efficient Backdoor Attacks  </font> <br>  Yutong Wu,  **Xingshuo Han**, Han Qiu, Tianwei Zhang.|
 |**[Euro S&P '23]**| <font color='blue'>SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View. </font> <br> Yuan Xu, **Xingshuo Han**, Gelei Deng, Yang Liu, Jiwei Li, Tianwei Zhang. |
