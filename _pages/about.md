@@ -16,6 +16,8 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 <font color=dark size=5> What's News </font>
 
++ **[18-10-2023]** Three papers are submitted to Usenix Security!
++ 
 + **[28-09-2023]** One paper is accepted by IEEE TSC!
   
 + **[04-08-2023]** Two papers are submitted to IEEE S&P 2024, thank my partners.
@@ -67,6 +69,6 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 <font color=dark size=5> Upcoming Deadlines</font>
 
-+ **USENIX Sec '24** October 17, 2023. Philadelphia, PA.
+<!-- + **USENIX Sec '24** October 17, 2023. Philadelphia, PA. -->
 + **Oakland '24**	 December 6, 2023. San Francisco, CA.
 <!-- Our project entitled "A Unified Defense Framework against Physical Adversarial Attacks to Autonomous Driving" -->
