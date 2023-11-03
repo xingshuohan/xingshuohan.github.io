@@ -42,17 +42,17 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 |Conference/Journal|* Corresponding|
 |----|----|
-|**[S&P '24]** |<font color='blue'> Backdooring Multimodal Learning.</font>  <br>**Xingshuo Han**, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang. |
-|**[MM '22]**| <font color='blue'>Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. </font> <br> **Xingshuo Han**, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang.  |
-|**[TITS '22]**| <font color='blue'>ADS-lead: Lifelong anomaly detection in autonomous driving systems. </font> <br> **Xingshuo Han**, Yuan Zhou, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang. |
-|**[ISPA '21]** | <font color='blue'>A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.<font color='red'> Most Innovative Paper Award. </font> </font> <br> **Xingshuo Han**, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  |
-|**[TSC '23]** | <font color='blue'> An Adaptive Secure and Practival Data Sharing System with Verifiable Outsourced Decryption. </font> <br> Shengmin Xu, __Xingshuo Han *__, Guowen Xu, Jianting Ning, Xinyi Huang, Robert H. Deng.
-|**[TDSC '22]** | <font color='blue'>Hercules: Boosting the Performance of Privacy-preserving Federated Learning. </font> <br>  Guowen Xu, __Xingshuo Han *__, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. |
-|**[ICCV '23]**| <font color='blue'>Computation and Data Efficient Backdoor Attacks  </font> <br>  Yutong Wu,  **Xingshuo Han**, Han Qiu, Tianwei Zhang.|
-|**[Euro S&P '23]**| <font color='blue'>SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View. </font> <br> Yuan Xu, **Xingshuo Han**, Gelei Deng, Yang Liu, Jiwei Li, Tianwei Zhang. |
-|**[TDSC '23]**| <font color='blue'>SIMC 2.0: Improved Secure ML Inference Against Malicious Clients. </font> <br> Guowen Xu,  **Xingshuo Han**, Tianwei Zhang, Shengmin Xu, Jianting Ning, Xinyi Huang, Hongwei Li, Robert H.Deng. |
-|**[TDSC '23]** |<font color='blue'>VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder. </font> <br>Guowen Xu,  **Xingshuo Han**, Gelei Deng, Tianwei Zhang, Shengmin Xu, Anjia Yang, Hongwei Li. |
-|**[TITS '22]**|<font color='blue'> Secure data sharing with flexible cross-domain authorization in autonomous vehicle systems. </font> <br> Jianfei Sun, Guowen Xu, Tianwei Zhang, Xiaochun Cheng, **Xingshuo Han**, Mingjian Tang.|
+|**[S&P '24]** |<font color='blue'> [Backdooring Multimodal Learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a031/1RjEa7rmaxW)</font>  <br>**Xingshuo Han**, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang. |
+|**[MM '22]**| <font color='blue'>[Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.](https://dl.acm.org/doi/abs/10.1145/3503161.3548171) </font> <br> **Xingshuo Han**, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang.  |
+|**[TITS '22]**| <font color='blue'>[ADS-lead: Lifelong Anomaly Detection in Autonomous Driving Systems.](https://ieeexplore.ieee.org/document/9690769) </font> <br> **Xingshuo Han**, Yuan Zhou, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang. |
+|**[ISPA '21]** | <font color='blue'>[A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.](https://ieeexplore.ieee.org/document/9644710)<font color='red'> Most Innovative Paper Award. </font> </font> <br> **Xingshuo Han**, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  |
+|**[TSC '23]** | <font color='blue'>[An Adaptive Secure and Practival Data Sharing System with Verifiable Outsourced Decryption.](https://ieeexplore.ieee.org/abstract/document/10269044) </font> <br> Shengmin Xu, __Xingshuo Han *__, Guowen Xu, Jianting Ning, Xinyi Huang, Robert H. Deng.
+|**[TDSC '22]** | <font color='blue'>[Hercules: Boosting the Performance of Privacy-preserving Federated Learning.](https://ieeexplore.ieee.org/document/9935302) </font> <br>  Guowen Xu, __Xingshuo Han *__, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. |
+|**[ICCV '23]**| <font color='blue'>[Computation and Data Efficient Backdoor Attacks](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Computation_and_Data_Efficient_Backdoor_Attacks_ICCV_2023_paper.pdf)  </font> <br>  Yutong Wu,  **Xingshuo Han**, Han Qiu, Tianwei Zhang.|
+|**[Euro S&P '23]**| <font color='blue'>[SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View.](https://www.computer.org/csdl/proceedings-article/eurosp/2023/651200b082/1OFthZt0T4Y) </font> <br> Yuan Xu, **Xingshuo Han**, Gelei Deng, Yang Liu, Jiwei Li, Tianwei Zhang. |
+|**[TDSC '23]**| <font color='blue'>[SIMC 2.0: Improved Secure ML Inference Against Malicious Clients.](https://ieeexplore.ieee.org/document/10159486) </font> <br> Guowen Xu,  **Xingshuo Han**, Tianwei Zhang, Shengmin Xu, Jianting Ning, Xinyi Huang, Hongwei Li, Robert H.Deng. |
+|**[TDSC '23]** |<font color='blue'>[VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder.](https://tianweiz07.github.io/Papers/23-tdsc-3.pdf) </font> <br>Guowen Xu,  **Xingshuo Han**, Gelei Deng, Tianwei Zhang, Shengmin Xu, Anjia Yang, Hongwei Li. |
+|**[TITS '22]**|<font color='blue'> [Secure Data Sharing with Flexible Cross-domain Authorization in Autonomous Vehicle systems.](https://ieeexplore.ieee.org/document/9737055) </font> <br> Jianfei Sun, Guowen Xu, Tianwei Zhang, Xiaochun Cheng, **Xingshuo Han**, Mingjian Tang.|
 
 
 
