@@ -16,12 +16,12 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 <font color=dark size=5> What's News </font>
 
-+ **[18-10-2023]** Three papers are submitted to Usenix Security!
++ **[18-10-2023]** Three papers are submitted to Usenix Security 2024!
+
++ **[30-09-2023]** My thesis is submitted!
   
 + **[28-09-2023]** One paper is accepted by IEEE TSC!
   
-+ **[04-08-2023]** Two papers are submitted to IEEE S&P 2024, thank my partners.
-
 + **[26-07-2023]** Our [team](https://personal.ntu.edu.sg/tianwei.zhang/research.html) is funded by [AISG Grand Challenge](https://aisingapore.org/technology/grand-challenges/): Towards Building Unified AV Scene Representation for Physical AV Adversrail Attacks and Visual Robustness Enhancement. And I introduce our defense framework against physical adversarial attack for autonomous driving to the **Senior Minister of State for Defence Heng Chee How**. (News coverage: [CNA](https://www.youtube.com/watch?v=6zbpUcAeF8Y&t=16s), [Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20230726-1417558) (联合早报), [MINDEF](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/July/26jul23_speech),etc.) 
 
 <div align="center">
