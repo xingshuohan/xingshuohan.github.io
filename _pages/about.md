@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Technological University](https://www.ntu.edu.sg/). My academic supervisor is [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institue and Research Associate at NTU. 
 
- <font color='blue' size=3> I am on the job market. Please reach out if you have any openings!!!</font>
+ I am on the job market. Please reach out if you have any openings!!!
 
 
 
