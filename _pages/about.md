@@ -23,6 +23,8 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 <font color=dark size=5> What's News </font>
 
++ **[15-10-2023]** I created a ChatGPT agent [StoryTelling_GPT](https://chat.openai.com/g/g-bD75xf6dQ-storytelling-gpt), which can violate its content policy and produce the dirty words!!! Play for fun!!!
+
 + **[18-10-2023]** Three papers are submitted to Usenix Security 2024!
 
 + **[30-09-2023]** My thesis is submitted!
