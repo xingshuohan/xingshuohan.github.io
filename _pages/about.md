@@ -10,10 +10,7 @@ redirect_from:
 
 I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Technological University](https://www.ntu.edu.sg/). My academic supervisor is [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institue and Research Associate at NTU. 
 
- I am on the job market. Please reach out if you have any openings!!!
-
-
-
+ <font color="red">***I am on the job market. Please reach out if you have any openings!!!***</font>
 
 
 
@@ -25,7 +22,7 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 
 + **[15-11-2023]** I created a ChatGPT agent [StoryTelling_GPT](https://chat.openai.com/g/g-bD75xf6dQ-storytelling-gpt), which can violate its content policy and produce dirty words!!! Play for fun!!!
 
-+ **[18-10-2023]** Three papers are submitted to Usenix Security 2024!
+<!-- + **[18-10-2023]** Three papers are submitted to Usenix Security 2024! -->
 
 + **[30-09-2023]** My thesis is submitted!
   
