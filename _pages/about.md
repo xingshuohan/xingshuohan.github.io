@@ -78,10 +78,5 @@ I am on the job market. Please reach out if you have any openings!!!
 <font color=dark size=5> Upcoming Deadlines</font>
 
 <!-- + **USENIX Sec '24** October 17, 2023. Philadelphia, PA. -->
-<<<<<<< HEAD
+
 + **CCS '24**	 Apr 14, 2024.
-<!-- Our project entitled "A Unified Defense Framework against Physical Adversarial Attacks to Autonomous Driving" -->
-=======
-+ **IEEE Symposium on Security and Privacy (S&P) '24**	 December 6, 2023. San Francisco, CA.
-<!-- Our project entitled "A Unified Defense Framework against Physical Adversarial Attacks to Autonomous Driving" -->
->>>>>>> 439ec52244e7a29cd20696be246d4bbc7489ff7e
