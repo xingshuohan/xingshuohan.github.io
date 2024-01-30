@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Technological University](https://www.ntu.edu.sg/). My academic supervisor is [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institue and Research Associate at NTU. 
 
- <font color="red">***I am on the job market. Please reach out if you have any openings!!!***</font>
+I am on the job market. Please reach out if you have any openings!!!
 
 
 
@@ -76,5 +76,5 @@ I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Techno
 <font color=dark size=5> Upcoming Deadlines</font>
 
 <!-- + **USENIX Sec '24** October 17, 2023. Philadelphia, PA. -->
-+ **IEEE Symposium on Security and Privacy (S&P) '24**	 December 6, 2023. San Francisco, CA.
++ **CCS '24**	 Apr 14, 2024.
 <!-- Our project entitled "A Unified Defense Framework against Physical Adversarial Attacks to Autonomous Driving" -->
