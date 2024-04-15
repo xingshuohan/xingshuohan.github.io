@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D. candidate at the Cyber Security Lab (CSL), [Nanyang Technological University](https://www.ntu.edu.sg/). My academic supervisor is [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institue and Research Associate at NTU. 
+I am currently a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological University](https://www.ntu.edu.sg/). I received my Ph.D. from the School of Computer Science and Engineering, Nanyang Technological University in March 2024, advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institute and a Research Associate at NTU. 
 
 
 I am on the job market. Please reach out if you have any openings!!!
