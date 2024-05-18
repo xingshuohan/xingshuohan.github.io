@@ -21,7 +21,8 @@ I am on the job market. Please reach out if you have any openings!!!
 + AI Security & Pravicy. 
 
 <font color=dark size=5> What's News </font>
-
++ **[17-05-2024]** Two papers are accepted by KDD!
+  
 + **[01-04-2024]** Two papers are accepted by ACM CCS!
   
 + **[15-11-2023]** I created a ChatGPT agent [StoryTelling_GPT](https://chat.openai.com/g/g-bD75xf6dQ-storytelling-gpt), which can violate its content policy and produce dirty words!!! Play for fun!!!
@@ -57,6 +58,7 @@ I am on the job market. Please reach out if you have any openings!!!
 |**[ISPA '21]** | <font color='blue'>A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.<font color='red'> Most Innovative Paper Award. </font> </font> <br> **Xingshuo Han**, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA).|
 |**[TSC '23]** | <font color='blue'> An Adaptive Secure and Practival Data Sharing System with Verifiable Outsourced Decryption. </font> <br> Shengmin Xu, __Xingshuo Han *__, Guowen Xu, Jianting Ning, Xinyi Huang, Robert H. Deng. IEEE Transactions on Services Computing.|
 |**[TDSC '22]** | <font color='blue'>Hercules: Boosting the Performance of Privacy-preserving Federated Learning. </font> <br>  Guowen Xu, __Xingshuo Han *__, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. IEEE Transactions on Dependable and Secure Computing.|
+|**[KDD '24]** | <font color='blue'>FedNLR: Federated Learning with Neuron-wise Learning Rates. </font> <br>  Haozhao Wang, Peirong Zheng, **Xingshuo Han**, Wenchao Xu, Ruixuan Li, Tianwei Zhang. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.|
 |**[CCS '24]** |<font color='blue'>  PhyScout: Detecting Sensor Spoofing Attacks via Spatio-temporal Consistency. </font>  <br> Yuan Xu, Gelei Deng, **Xingshuo Han**, Guanlin Li, Han Qiu, Tianwei Zhang. ACM Conference on Computer and Communications Security (ACM CCS).|
 |**[ICCV '23]**| <font color='blue'>Computation and Data Efficient Backdoor Attacks  </font> <br>  Yutong Wu,  **Xingshuo Han**, Han Qiu, Tianwei Zhang. IEEE International Conference on Computer Vision (ICCV).|
 |**[Euro S&P '23]**| <font color='blue'>SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View. </font> <br> Yuan Xu, **Xingshuo Han**, Gelei Deng, Yang Liu, Jiwei Li, Tianwei Zhang. IEEE European Symposium on Security and Privacy (Euro S&P).|
