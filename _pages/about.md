@@ -21,7 +21,7 @@ I am on the job market. Please reach out if you have any openings!!!
 + AI Security & Pravicy. 
 
 <font color=dark size=5> What's News </font>
-+ **[17-05-2024]** Two papers are accepted by KDD!
++ **[17-05-2024]** One paper is accepted by KDD!
   
 + **[01-04-2024]** Two papers are accepted by ACM CCS!
   
