@@ -67,6 +67,8 @@ I am on the job market. Please reach out if you have any openings!!!
 |**[TDSC '23]** |<font color='blue'>VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder. </font> <br>Guowen Xu,  **Xingshuo Han**, Gelei Deng, Tianwei Zhang, Shengmin Xu, Anjia Yang, Hongwei Li. IEEE Transactions on Dependable and Secure Computing. |
 |**[TITS '22]**|<font color='blue'> Secure Data Sharing with Flexible Cross-domain Authorization in Autonomous Vehicle systems. </font> <br> Jianfei Sun, Guowen Xu, Tianwei Zhang, Xiaochun Cheng, **Xingshuo Han**, Mingjian Tang. IEEE Transactions on Intelligent Transportation Systems.|
 
+<font color=dark size=5> Professional Services</font>
++ **EuroS&P '25** Program Committee Member 
 
 <font color=dark size=5> Upcoming Deadlines</font>
 
