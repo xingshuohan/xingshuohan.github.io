@@ -68,7 +68,8 @@ I am on the job market. Please reach out if you have any openings!!!
 |**[TITS '22]**|<font color='blue'> Secure Data Sharing with Flexible Cross-domain Authorization in Autonomous Vehicle systems. </font> <br> Jianfei Sun, Guowen Xu, Tianwei Zhang, Xiaochun Cheng, **Xingshuo Han**, Mingjian Tang. IEEE Transactions on Intelligent Transportation Systems.|
 
 <font color=dark size=5> Professional Services</font>
-+ **EuroS&P '25** Program Committee Member 
++ **EuroS&P '25** Program Committee Member
++ **SaTML '25** Program Committee Member 
 
 <font color=dark size=5> Upcoming Deadlines</font>
 
