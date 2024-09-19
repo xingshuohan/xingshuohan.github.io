@@ -64,3 +64,4 @@ I am currently a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Tech
 <font color=dark size=5> Professional Services</font>
 + **EuroS&P '25** Program Committee Member
 + **SaTML '25** Program Committee Member 
++ **AAAI  '25** Program Committee Member
