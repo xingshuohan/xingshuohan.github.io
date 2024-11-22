@@ -62,3 +62,4 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 + **EuroS&P '25** Program Committee Member
 + **SaTML '25** Program Committee Member 
 + **AAAI  '25** Program Committee Member
++ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and several IEEE Transaction journals.
