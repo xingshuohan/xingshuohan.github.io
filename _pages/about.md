@@ -40,6 +40,7 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[S&P '25]** |<font color='blue'> PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning. </font>  <br>Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, <u>Xingshuo Han</u>, Xinyi Huang. IEEE Symposium on Security and Privacy. (**CCF-A**)|
 |**[TCAD '25]** |<font color='blue'> MinMaxEntropy: Bound Model Errors for Side-Channel Leakages from Information Theory. </font> <br>Changhai OU, 	Zhenfang Qiu, <u>Xingshuo Han*</u>, Fan Zhang, Shihui Zheng, Fei Yan. IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems. (**CCF-A**)|
 |**[AAAI '25]** |<font color='blue'> An LLM-empowered Adaptive Evolutionary Algorithm For Multi-Component Deep Learning Systems. <font color='red'> (Oral). </font> </font> <br>Haoxiang Tian, <u>Xingshuo Han*</u>, Guoquan Wu, An Guo, Yuan Zhou, Jie Zhang, SHUO LI, Jun Wei, Tianwei Zhang. Association for the Advancement of Artificial Intelligence. (**CCF-A**)|
 |**[NeurIPS '24]** |<font color='blue'> Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation. </font> <br>Hangcheng Liu, Zhenhu Wu, Hao Wang, <u>Xingshuo Han*</u>, Shangwei Guo, Tao Xiang, Tianwei Zhang. Neural Information Processing Systems. (**CCF-A**)|
