@@ -28,7 +28,14 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
     </video>
 </div>
 
-  
+
+<font color=dark size=5> Professional Services</font>
++ **ACSAC '25** Program Committee Member
++ **EuroS&P '25** Program Committee Member
++ **SaTML '25** Program Committee Member 
++ **AAAI  '25** Program Committee Member
++ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transaction journals.
+
 <font color=dark size=5> Publications </font>
 
 <!-- 
@@ -37,13 +44,6 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
         border: none;
     }
 </style> -->
-
-<font color=dark size=5> Professional Services</font>
-+ **ACSAC '25** Program Committee Member
-+ **EuroS&P '25** Program Committee Member
-+ **SaTML '25** Program Committee Member 
-+ **AAAI  '25** Program Committee Member
-+ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transaction journals.
 
 |Conference/Journal|* Corresponding|
 |----|----|
