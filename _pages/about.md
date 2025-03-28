@@ -38,6 +38,13 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
     }
 </style> -->
 
+<font color=dark size=5> Professional Services</font>
++ **ACSAC '25** Program Committee Member
++ **EuroS&P '25** Program Committee Member
++ **SaTML '25** Program Committee Member 
++ **AAAI  '25** Program Committee Member
++ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transaction journals.
+
 |Conference/Journal|* Corresponding|
 |----|----|
 |**[S&P '25]** |<font color='blue'> PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning. </font>  <br>Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, <u>Xingshuo Han</u>, Xinyi Huang. IEEE Symposium on Security and Privacy. (**CCF-A**)|
@@ -61,8 +68,4 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 |**[ISPA '21]** | <font color='blue'>A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.<font color='red'> Most Innovative Paper Award. </font> </font> <br> <u>Xingshuo Han</u>, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  IEEE International Symposium on Parallel and Distributed Processing with Applications. (**CCF-C**)|
 
 
-<font color=dark size=5> Professional Services</font>
-+ **EuroS&P '25** Program Committee Member
-+ **SaTML '25** Program Committee Member 
-+ **AAAI  '25** Program Committee Member
-+ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and several IEEE Transaction journals.
+
