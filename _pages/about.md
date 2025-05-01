@@ -49,6 +49,7 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[ICML '25]** |<font color='blue'> BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach. </font>  <br> Haozhao Wang, Shengyu Wang, Jiaming Li, Hao Ren, <u>Xingshuo Han</u>, Wenchao Xu, Shangwei Guo, Tianwei Zhang, Ruixuan Li. International Conference on Machine Learning. (**CCF-A**)|
 |**[ISSTA '25]** |<font color='blue'> Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems. </font>  <br> Haoxiang Tian, Qiangwen Ding, <u>Xingshuo Han*</u>, Guoquan Wu, An Guo, Junqi Zhang, Wei Chen, Jun Wei, Tianwei Zhang. ACM SIGSOFT International Symposium on Software Testing and Analysis. (**CCF-A**)|
 |**[S&P '25]** |<font color='blue'> PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning. </font>  <br>Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, <u>Xingshuo Han</u>, Xinyi Huang. IEEE Symposium on Security and Privacy. (**CCF-A**)|
 |**[TCAD '25]** |<font color='blue'> MinMaxEntropy: Bound Model Errors for Side-Channel Leakages from Information Theory. </font> <br>Changhai OU, 	Zhenfang Qiu, <u>Xingshuo Han*</u>, Fan Zhang, Shihui Zheng, Fei Yan. IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems. (**CCF-A**)|
