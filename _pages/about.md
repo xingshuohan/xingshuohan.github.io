@@ -49,6 +49,7 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[SCIS'25]** |<font color='blue'>   Artificial intelligence security and privacy: a survey. </font>  <br> Xinlei He, Guowen Xu, <u>Xingshuo Han</u>, Qian Wang, Lingchen Zhao, Chao Shen, Chenhao Lin, Zhengyu Zhao, Qian Li, Le Yang, Shouling Ji, Shaofeng Li, Haojin Zhu, Zhibo Wang, Rui Zheng, Tianqing Zhu, Qi Li, Chaoxiang He, Qifan Wang, Hongsheng Hu, Shuo Wang, Shi-Feng Sun, Hongwei Yao, Zhan Qin, Kai Chen, Yue Zhao, Hongwei Li, Xinyi Huang, Dengguo Feng. Science China Information Sciences. (**CCF-A**)|
 |**[ICML '25]** |<font color='blue'> BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach. </font>  <br> Haozhao Wang, Shengyu Wang, Jiaming Li, Hao Ren, <u>Xingshuo Han</u>, Wenchao Xu, Shangwei Guo, Tianwei Zhang, Ruixuan Li. International Conference on Machine Learning. (**CCF-A**)|
 |**[ISSTA '25]** |<font color='blue'> Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems. </font>  <br> Haoxiang Tian, Qiangwen Ding, <u>Xingshuo Han*</u>, Guoquan Wu, An Guo, Junqi Zhang, Wei Chen, Jun Wei, Tianwei Zhang. ACM SIGSOFT International Symposium on Software Testing and Analysis. (**CCF-A**)|
 |**[S&P '25]** |<font color='blue'> PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning. </font>  <br>Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, <u>Xingshuo Han</u>, Xinyi Huang. IEEE Symposium on Security and Privacy. (**CCF-A**)|
@@ -72,4 +73,6 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 |**[ISPA '21]** | <font color='blue'>A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.<font color='red'> Most Innovative Paper Award. </font> </font> <br> <u>Xingshuo Han</u>, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan,  Yang Liu,  Tianwei Zhang.  IEEE International Symposium on Parallel and Distributed Processing with Applications. (**CCF-C**)|
 
 
-
+|中文|* Corresponding|
+|----|----|
+|**[软件学报]** | <font color='blue'>基于路网建模的自动驾驶关键场景生成与自适应演化方法. </font> <br> 田浩翔, 吴国全, 魏峻, 郭安，<u>韩星烁</u>，陈伟, 王伟, 叶丹  (**CCF-A**)|
