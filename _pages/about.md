@@ -30,11 +30,11 @@ I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological 
 
 
 <font color=dark size=5> Professional Services</font>
++ **CCS '26** Program Committee Member
 + **Inscrypt '25** Program Committee Member
-+ **ICECCS '25** Program Committee Member
 + **ACSAC '25** Program Committee Member
-+ **EuroS&P '25** Program Committee Member
-+ **SaTML '25** Program Committee Member 
++ **EuroS&P '25'26** Program Committee Member
++ **SaTML '25'26** Program Committee Member 
 + **AAAI  '25** Program Committee Member
 + Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transactions.
 
