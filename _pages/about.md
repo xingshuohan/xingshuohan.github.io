@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological University](https://www.ntu.edu.sg/). I received my Ph.D. from the College of Computing and Data Science, Nanyang Technological University, advised by [Assoc Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institute and a Research Associate at NTU. 
 
 <font color=dark size=5> Research Interests </font>
