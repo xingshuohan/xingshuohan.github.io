@@ -8,26 +8,11 @@ redirect_from:
   - /about.html
 ---
  
-I am a Research Fellow at Continental-NTU Corporate Lab, [Nanyang Technological University](https://www.ntu.edu.sg/). I received my Ph.D. from the College of Computing and Data Science, Nanyang Technological University, advised by [Assoc Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institute and a Research Associate at NTU. 
+I received my Ph.D. from the College of Computing and Data Science, Nanyang Technological University, advised by [Assoc Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). Before that, I was a Research Fellow at Continental-NTU Corporate Lab, a Visiting Scholar at BMW-NTU Future Mobility Energy Research Institute and a Research Associate at NTU. 
 
 <font color=dark size=5> Research Interests </font>
 + Autonomous Driving Security & Safety
 + AI Security & Pravicy. 
-
-<font color=dark size=5> What's News </font>
-+ **[09-2024]** One paper is accepted by NeurIPS!
-+ **[05-2024]** One paper is accepted by KDD!
-+ **[04-2024]** Two papers are accepted by ACM CCS!
-+ **[11-2023]** I created a ChatGPT agent [StoryTelling_GPT](https://chat.openai.com/g/g-bD75xf6dQ-storytelling-gpt), which can violate its content policy and produce dirty words!!! Play for fun!!!  
-+ **[09-2023]** One paper is accepted by IEEE TSC!
-+ **[07-2023]** Our [team](https://personal.ntu.edu.sg/tianwei.zhang/research.html) is funded by [AISG Grand Challenge](https://aisingapore.org/technology/grand-challenges/): Towards Building Unified AV Scene Representation for Physical AV Adversarial Attacks and Visual Robustness Enhancement. And I introduce our defense framework against physical adversarial attack for autonomous driving to the **Senior Minister of State for Defence Heng Chee How**. (News coverage: [CNA](https://www.youtube.com/watch?v=6zbpUcAeF8Y&t=16s), [Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20230726-1417558) (联合早报), [MINDEF](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/July/26jul23_speech),etc.) 
-
-<div align="center">
-    <video id="video" width="350" height="240" autoplay="autoplay" loop="loop" controls="" preload="none" poster="">
-        <source src="../images/AISG.mp4" type="video/mp4">
-    </video>
-</div>
-
 
 <font color=dark size=5> Professional Services</font>
 + **CCS '26** Program Committee Member
