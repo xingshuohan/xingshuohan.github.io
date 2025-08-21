@@ -34,6 +34,7 @@ I received my Ph.D. from the College of Computing and Data Science, Nanyang Tech
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[TDSC'25]** |<font color='blue'> Enhancing Secure Cloud Data Sharing: Dynamic User Groups and Outsourced Decryption. </font>  <br> Shengmin Xu, Guomin Yang, Xiaoguo Li, <u>Xingshuo Han</u>, Xiaotian Yan, Xinyi Huang.Transaction on Dependable and Secure Computing. (**CCF-A**)|
 |**[TDSC'25]** |<font color='blue'> Verifiable and Lightweight Multi-Round Secure Federated Learning. </font>  <br> Jiayin Li, Shengmin Xu, <u>Xingshuo Han</u>, Jianting Ning, Xinlei He, Guowen Xu.Transaction on Dependable and Secure Computing. (**CCF-A**)|
 |**[ICCV'25]** |<font color='blue'>  Mind the Cost of Scaffold! Benign Clients May Even Become Accomplices of Backdoor Attack. </font>  <br> <u>Xingshuo Han</u>, Zhang Xuanye, Xiang Lan, Haozhao Wang, Shengmin Xu, Shen Ren, Jason Zeng, Ming Wu, Michael Heinrich, Tianwei Zhang. International Conference on Computer Vision. (**CCF-A**)|
 |**[SCIS'25]** |<font color='blue'>   Artificial intelligence security and privacy: a survey. </font>  <br> Xinlei He, Guowen Xu, <u>Xingshuo Han</u>, Qian Wang, Lingchen Zhao, Chao Shen, Chenhao Lin, Zhengyu Zhao, Qian Li, Le Yang, Shouling Ji, Shaofeng Li, Haojin Zhu, Zhibo Wang, Rui Zheng, Tianqing Zhu, Qi Li, Chaoxiang He, Qifan Wang, Hongsheng Hu, Shuo Wang, Shi-Feng Sun, Hongwei Yao, Zhan Qin, Kai Chen, Yue Zhao, Hongwei Li, Xinyi Huang, Dengguo Feng. Science China Information Sciences. (**CCF-A**)|
