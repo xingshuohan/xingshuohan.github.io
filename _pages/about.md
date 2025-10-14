@@ -32,6 +32,11 @@ I received my Ph.D. from the College of Computing and Data Science, Nanyang Tech
     }
 </style> -->
 
+|Date|* Corresponding|
+|----|----|
+|**[Oct 2025]** |<font color='blue'> Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving. </font> <br>Yifan Liao, Zhen Sun, Xiaoyun Qiu, Zixiao Zhao, Wenbing Tang, Xinlei He, Xinhu Zheng, Tianwei Zhang, Xinyi Huang, <u>Xingshuo Han*</u>|
+|**[Oct 2025]** |<font color='blue'> When the Road Breaks: Systematic Testing of Autonomous Driving Decision-Making under Roadwork Conditions. </font> <br>Haoxiang Tian, Wenqiang Ding, <u>Xingshuo Han*</u>, Wenbing Tang, Guoquan Wu, An Guo, Shuo Li, Xinyi Huang, Tianwei Zhang|
+
 |Conference/Journal|* Corresponding|
 |----|----|
 |**[NeurIPS '25]** |<font color='blue'> The Fluorescent Veil: A Stealthy and Effective Physical Adversarial Patch Against Traffic Sign Recognition. </font> <br> Shuai Yuan, <u>Xingshuo Han</u>, Hongwei Li, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang. Neural Information Processing Systems. (**CCF-A**)|
@@ -67,8 +72,4 @@ I received my Ph.D. from the College of Computing and Data Science, Nanyang Tech
 |----|----|
 |**[软件学报]** | <font color='blue'>基于路网建模的自动驾驶关键场景生成与自适应演化方法. </font> <br> 田浩翔, 吴国全, 魏峻, 郭安，<u>韩星烁</u>，陈伟, 王伟, 叶丹  (**CCF-A**)|
 
-|Date|* Corresponding|
-|----|----|
-|**[Oct 2025]** |<font color='blue'> Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving. </font> <br>Yifan Liao, Zhen Sun, Xiaoyun Qiu, Zixiao Zhao, Wenbing Tang, Xinlei He, Xinhu Zheng, Tianwei Zhang, Xinyi Huang, <u>Xingshuo Han*</u>|
-|**[Oct 2025]** |<font color='blue'> When the Road Breaks: Systematic Testing of Autonomous Driving Decision-Making under Roadwork Conditions. </font> <br>Haoxiang Tian, Wenqiang Ding, <u>Xingshuo Han*</u>, Wenbing Tang, Guoquan Wu, An Guo, Shuo Li, Xinyi Huang, Tianwei Zhang|
 
