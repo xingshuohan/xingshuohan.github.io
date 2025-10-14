@@ -31,6 +31,10 @@ I received my Ph.D. from the College of Computing and Data Science, Nanyang Tech
         border: none;
     }
 </style> -->
+|arxiv|* Corresponding|
+|----|----|
+|**[Oct 2025]** |<font color='blue'> Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving. </font> <br>Yifan Liao, Zhen Sun, Xiaoyun Qiu, Zixiao Zhao, Wenbing Tang, Xinlei He, Xinhu Zheng, Tianwei Zhang, Xinyi Huang, <u>Xingshuo Han*</u>|
+|**[Oct 2025]** |<font color='blue'> When the Road Breaks: Systematic Testing of Autonomous Driving Decision-Making under Roadwork Conditions. </font> <br>Haoxiang Tian, Wenqiang Ding, , <u>Xingshuo Han*</u>, Wenbing Tang, Guoquan Wu, An Guo, Shuo Li, Xinyi Huang, Tianwei Zhang|
 
 |Conference/Journal|* Corresponding|
 |----|----|
