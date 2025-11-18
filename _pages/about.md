@@ -39,6 +39,7 @@ I am now a Full Professor at the College of Computer Science and Technology, Nan
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[TIFS '25]**| <font color='blue'> SSD: A State-based Stealthy Backdoor Attack For IMU/GNSS Navigation System in UAV Route Planning. </font> <br> Zhaoxuan Wang, Yang Li, Jie Zhang, <u>Xingshuo Han</u>, Kangbo Liu, Yang Lyu, Yuan Zhou, Tianwei Zhang, Quan Pan . IEEE Transactions on Information Forensics and Security. (**CCF-A**)|
 |**[NeurIPS '25]** |<font color='blue'> The Fluorescent Veil: A Stealthy and Effective Physical Adversarial Patch Against Traffic Sign Recognition. </font> <br> Shuai Yuan, <u>Xingshuo Han</u>, Hongwei Li, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang. Neural Information Processing Systems. (**CCF-A**)|
 |**[ACSAC'25]** |<font color='blue'> Controllable Spoofing Attacks on Visual SLAM in Robotic Vehicles. </font>  <br> Yuan Xu, Gelei Deng, Guanlin Li, <u>Xingshuo Han</u>, Shangwei Guo, Tianwei Zhang. ACM Annual Computer Security Applications Conference. (**CCF-B**)|
 |**[TDSC'25]** |<font color='blue'> Enhancing Secure Cloud Data Sharing: Dynamic User Groups and Outsourced Decryption. </font>  <br> Shengmin Xu, Guomin Yang, Xiaoguo Li, <u>Xingshuo Han</u>, Xiaotian Yan, Xinyi Huang.Transaction on Dependable and Secure Computing. (**CCF-A**)|
