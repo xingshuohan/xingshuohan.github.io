@@ -39,6 +39,7 @@ I am now a Full Professor at the College of Computer Science and Technology, Nan
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[DAC '26]**| <font color='blue'> Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations. </font> <br>  Yukun Cheng, Shiyu Zhu, Changhai Ou, <u>Xingshuo Han</u>, Yuan Li and Shihui Zheng. ACM/IEEE Design Automation Conference. (**CCF-A**)|
 |**[TOSEM '25]**| <font color='blue'> Discovering Safety Violations of Decision-Making in Autonomous Driving Systems from Accident-Free Traffic Scenarios. </font> <br> Haoxiang Tian, Yuan Zhou, An Guo, Guoquan Wu, Mingfei Cheng, Wei Wang, Jun Wei, Tianwei Zhang, <u>Xingshuo Han*</u>. ACM Transactions on Software Engineering and Methodology. (**CCF-A**)|
 |**[TIFS '25]**| <font color='blue'> SSD: A State-based Stealthy Backdoor Attack For IMU/GNSS Navigation System in UAV Route Planning. </font> <br> Zhaoxuan Wang, Yang Li, Jie Zhang, <u>Xingshuo Han</u>, Kangbo Liu, Yang Lyu, Yuan Zhou, Tianwei Zhang, Quan Pan . IEEE Transactions on Information Forensics and Security. (**CCF-A**)|
 |**[NeurIPS '25]** |<font color='blue'> The Fluorescent Veil: A Stealthy and Effective Physical Adversarial Patch Against Traffic Sign Recognition. </font> <br> Shuai Yuan, <u>Xingshuo Han</u>, Hongwei Li, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang. Neural Information Processing Systems. (**CCF-A**)|
