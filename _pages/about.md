@@ -39,6 +39,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[TMM '26]**| <font color='blue'> AIB-CL: Across Information Bottleneck Framework for Robust Contrastive Learning against Intra-Class Variation. </font> <br> Anguo Zhang, Jieming Shi, <u>Xingshuo Han</u>, Min Gao, Chao Wei, Junyi Wu, Malu Zhang, Yongduan Song, Bo Liu. IEEE Transactions on Multimedia. (**CCF-A**)|
 |**[DAC '26]**| <font color='blue'> Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations. </font> <br>  Yukun Cheng, Shiyu Zhu, Changhai Ou, <u>Xingshuo Han</u>, Yuan Li and Shihui Zheng. ACM/IEEE Design Automation Conference. (**CCF-A**)|
 |**[TOSEM '25]**| <font color='blue'> Discovering Safety Violations of Decision-Making in Autonomous Driving Systems from Accident-Free Traffic Scenarios. </font> <br> Haoxiang Tian, Yuan Zhou, An Guo, Guoquan Wu, Mingfei Cheng, Wei Wang, Jun Wei, Tianwei Zhang, <u>Xingshuo Han*</u>. ACM Transactions on Software Engineering and Methodology. (**CCF-A**)|
 |**[TIFS '25]**| <font color='blue'> SSD: A State-based Stealthy Backdoor Attack For IMU/GNSS Navigation System in UAV Route Planning. </font> <br> Zhaoxuan Wang, Yang Li, Jie Zhang, <u>Xingshuo Han</u>, Kangbo Liu, Yang Lyu, Yuan Zhou, Tianwei Zhang, Quan Pan . IEEE Transactions on Information Forensics and Security. (**CCF-A**)|
