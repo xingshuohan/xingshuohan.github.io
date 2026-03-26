@@ -14,14 +14,6 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 + Autonomous Driving Security & Safety
 + AI Security & Pravicy. 
 
-<font color=dark size=5> Professional Services</font>
-+ **CCS '26** Program Committee Member
-+ **Inscrypt '25** Program Committee Member
-+ **ACSAC '25** Program Committee Member
-+ **EuroS&P '25'26** Program Committee Member
-+ **SaTML '25'26** Program Committee Member 
-+ **AAAI  '25'26** Program Committee Member
-+ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transactions.
 
 <font color=dark size=5> Publications </font>
 
@@ -76,4 +68,13 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 |----|----|
 |**[软件学报]** | <font color='blue'>基于路网建模的自动驾驶关键场景生成与自适应演化方法. </font> <br> 田浩翔, 吴国全, 魏峻, 郭安，<u>韩星烁</u>，陈伟, 王伟, 叶丹  (**CCF-A**)|
 
+
+<font color=dark size=5> Professional Services</font>
++ **CCS '26** Program Committee Member
++ **Inscrypt '25** Program Committee Member
++ **ACSAC '25** Program Committee Member
++ **EuroS&P '25'26** Program Committee Member
++ **SaTML '25'26** Program Committee Member 
++ **AAAI  '25'26** Program Committee Member
++ Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transactions.
 
