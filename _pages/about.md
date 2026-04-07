@@ -31,6 +31,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[ACL '26]**| <font color='blue'> ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks. </font> <br> Peizhuo Lv, Ruihua Zhou, Yunpeng Li, Ruigang Liang, <u>Xingshuo Han</u>, XiaoFeng Wang, Wei Dong, Yuling Liu. Annual Meeting of the Association for Computational Linguistics(main). (**CCF-A**)|
 |**[TMM '26]**| <font color='blue'> AIB-CL: Across Information Bottleneck Framework for Robust Contrastive Learning against Intra-Class Variation. </font> <br> Anguo Zhang, Jieming Shi, <u>Xingshuo Han</u>, Min Gao, Chao Wei, Junyi Wu, Malu Zhang, Yongduan Song, Bo Liu. IEEE Transactions on Multimedia. (**CCF-A**)|
 |**[DAC '26]**| <font color='blue'> Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations. </font> <br>  Yukun Cheng, Shiyu Zhu, Changhai Ou, <u>Xingshuo Han</u>, Yuan Li and Shihui Zheng. ACM/IEEE Design Automation Conference. (**CCF-A**)|
 |**[TOSEM '25]**| <font color='blue'> Discovering Safety Violations of Decision-Making in Autonomous Driving Systems from Accident-Free Traffic Scenarios. </font> <br> Haoxiang Tian, Yuan Zhou, An Guo, Guoquan Wu, Mingfei Cheng, Wei Wang, Jun Wei, Tianwei Zhang, <u>Xingshuo Han*</u>. ACM Transactions on Software Engineering and Methodology. (**CCF-A**)|
