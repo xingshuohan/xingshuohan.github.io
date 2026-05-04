@@ -31,6 +31,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[ICML '26]**| <font color='blue'> When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models.  </font> <br> Haoran Ou, Kangjie Chen, <u>Xingshuo Han</u>, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang. Forty-third International Conference on Machine Learning. (**CCF-A**)|
 |**[ACL '26]**| <font color='blue'> ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks. </font> <br> Peizhuo Lv, Ruihua Zhou, Yunpeng Li, Ruigang Liang, <u>Xingshuo Han</u>, XiaoFeng Wang, Wei Dong, Yuling Liu. Annual Meeting of the Association for Computational Linguistics(main). (**CCF-A**)|
 |**[TMM '26]**| <font color='blue'> AIB-CL: Across Information Bottleneck Framework for Robust Contrastive Learning against Intra-Class Variation. </font> <br> Anguo Zhang, Jieming Shi, <u>Xingshuo Han</u>, Min Gao, Chao Wei, Junyi Wu, Malu Zhang, Yongduan Song, Bo Liu. IEEE Transactions on Multimedia. (**CCF-A**)|
 |**[DAC '26]**| <font color='blue'> Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations. </font> <br>  Yukun Cheng, Shiyu Zhu, Changhai Ou, <u>Xingshuo Han</u>, Yuan Li and Shihui Zheng. ACM/IEEE Design Automation Conference. (**CCF-A**)|
