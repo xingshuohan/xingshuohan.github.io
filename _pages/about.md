@@ -72,6 +72,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 
 <font color=dark size=5> Professional Services</font>
++ **USENIX Security '27** Program Committee Member
 + **DSPP '26** TPC Chair
 + **CCS '26** Program Committee Member
 + **Inscrypt '25** Program Committee Member
