@@ -72,13 +72,13 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 
 <font color=dark size=5> Professional Services</font>
-+ **USENIX Security '27** Program Committee Member
++ **USENIX Security '27** TPC Member
 + **DSPP '26** TPC Chair
-+ **CCS '26** Program Committee Member
-+ **Inscrypt '25** Program Committee Member
-+ **ACSAC '25** Program Committee Member
-+ **EuroS&P '25'26** Program Committee Member
-+ **SaTML '25'26** Program Committee Member 
-+ **AAAI  '25'26** Program Committee Member
++ **CCS '26** TPC Member
++ **Inscrypt '25*'26* TPC Member
++ **ACSAC '25** TPC Member
++ **EuroS&P '25'26** TPCe Member
++ **SaTML '25'26** TPC Member 
++ **AAAI  '25'26** TPC Member
 + Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transactions.
 
