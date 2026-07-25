@@ -24,13 +24,11 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
     }
 </style> -->
 
-|Arxiv|* Corresponding|
-|----|----|
-|**[10/2025]** |<font color='blue'> Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving. </font> <br>Yifan Liao, Zhen Sun, Xiaoyun Qiu, Zixiao Zhao, Wenbing Tang, Xinlei He, Xinhu Zheng, Tianwei Zhang, Xinyi Huang, <u>Xingshuo Han*</u>|
-|**[10/2025]** |<font color='blue'> When the Road Breaks: Systematic Testing of Autonomous Driving Decision-Making under Roadwork Conditions. </font> <br>Haoxiang Tian, Wenqiang Ding, <u>Xingshuo Han*</u>, Wenbing Tang, Guoquan Wu, An Guo, Shuo Li, Xinyi Huang, Tianwei Zhang|
+
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[MM '26]** | <font color='blue'>Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking. </font> <br> Haoran Ou, Gelei Deng, <u>Xingshuo Han</u>, Jie Zhang, Han Qiu, Shangwei Guo, Tianwei Zhang, Kwok-Yan Lam.  ACM International Conference on Multimedia. (**CCF-A**)|
 |**[ICML '26]**| <font color='blue'> When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models.  </font> <br> Haoran Ou, Kangjie Chen, <u>Xingshuo Han</u>, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang. Forty-third International Conference on Machine Learning. (**CCF-A**)|
 |**[ACL '26]**| <font color='blue'> ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks. </font> <br> Peizhuo Lv, Ruihua Zhou, Yunpeng Li, Ruigang Liang, <u>Xingshuo Han</u>, XiaoFeng Wang, Wei Dong, Yuling Liu. Annual Meeting of the Association for Computational Linguistics(main). (**CCF-A**)|
 |**[TMM '26]**| <font color='blue'> AIB-CL: Across Information Bottleneck Framework for Robust Contrastive Learning against Intra-Class Variation. </font> <br> Anguo Zhang, Jieming Shi, <u>Xingshuo Han</u>, Min Gao, Chao Wei, Junyi Wu, Malu Zhang, Yongduan Song, Bo Liu. IEEE Transactions on Multimedia. (**CCF-A**)|
