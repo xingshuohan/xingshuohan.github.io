@@ -28,6 +28,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+|**[TDSC '26]** | <font color='blue'>Learn from Human-driving Accidents to Attack Autonomous Driving: Practical Traffic Flow Attacks on Decision-making. </font> <br>  <u>Xingshuo Han</u>, Haoxiang Tian, Yuan Zhou; Junqi  Zhang, Gelei Deng, Shengmin Xu, Xinyi Huang, Tianwei Zhang. IEEE Transactions on Dependable and Secure Computing. (**CCF-A**)|
 |**[MM '26]** | <font color='blue'>Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking. </font> <br> Haoran Ou, Gelei Deng, <u>Xingshuo Han</u>, Jie Zhang, Han Qiu, Shangwei Guo, Tianwei Zhang, Kwok-Yan Lam.  ACM International Conference on Multimedia. (**CCF-A**)|
 |**[ICML '26]**| <font color='blue'> When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models.  </font> <br> Haoran Ou, Kangjie Chen, <u>Xingshuo Han</u>, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang. Forty-third International Conference on Machine Learning. (**CCF-A**)|
 |**[ACL '26]**| <font color='blue'> ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks. </font> <br> Peizhuo Lv, Ruihua Zhou, Yunpeng Li, Ruigang Liang, <u>Xingshuo Han</u>, XiaoFeng Wang, Wei Dong, Yuling Liu. Annual Meeting of the Association for Computational Linguistics(main). (**CCF-A**)|
@@ -73,9 +74,9 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 + **USENIX Security '27** TPC Member
 + **DSPP '26** TPC Chair
 + **CCS '26** TPC Member
-+ **Inscrypt '25*'26* TPC Member
++ **Inscrypt '25'26** TPC Member
 + **ACSAC '25** TPC Member
-+ **EuroS&P '25'26** TPCe Member
++ **EuroS&P '25'26** TPC Member
 + **SaTML '25'26** TPC Member 
 + **AAAI  '25'26** TPC Member
 + Reviewer for NeurIPS, CVPR, ECCV, ICCV, MM, and many IEEE Transactions.
