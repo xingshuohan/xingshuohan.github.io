@@ -28,6 +28,7 @@ I am now a Professor at the College of Computer Science and Technology, Nanjing 
 
 |Conference/Journal|* Corresponding|
 |----|----|
+Too lazy to update.....
 |**[TDSC '26]** | <font color='blue'>Learn from Human-driving Accidents to Attack Autonomous Driving: Practical Traffic Flow Attacks on Decision-making. </font> <br>  <u>Xingshuo Han</u>, Haoxiang Tian, Yuan Zhou; Junqi  Zhang, Gelei Deng, Shengmin Xu, Xinyi Huang, Tianwei Zhang. IEEE Transactions on Dependable and Secure Computing. (**CCF-A**)|
 |**[MM '26]** | <font color='blue'>Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking. </font> <br> Haoran Ou, Gelei Deng, <u>Xingshuo Han</u>, Jie Zhang, Han Qiu, Shangwei Guo, Tianwei Zhang, Kwok-Yan Lam.  ACM International Conference on Multimedia. (**CCF-A**)|
 |**[ICML '26]**| <font color='blue'> When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models.  </font> <br> Haoran Ou, Kangjie Chen, <u>Xingshuo Han</u>, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang. Forty-third International Conference on Machine Learning. (**CCF-A**)|
